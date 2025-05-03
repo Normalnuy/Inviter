@@ -1,0 +1,9 @@
+{
+    "api_id": "", 
+    "api_hash": "", 
+    "phones": 
+    [
+        {"phone": "phone", "password": "", "session_name": "session_0"},
+        {"phone": "phone", "password": "", "session_name": "session_1"}
+    ]
+}
